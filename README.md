@@ -4,5 +4,5 @@
 
 Σπυριδούλα-Παναγιώτα Βασιλείου Π2017195
 
-Το αποθετήριο μου βρίσκεται στο https://github.com/Spyrivasi/gr
-Το νέο κλαδί βρίσκεται https://github.com/Spyrivasi/gr/tree/P2017195
+Το αποθετήριο μου βρίσκεται στο https://spyrivasi.github.io/gr/
+
