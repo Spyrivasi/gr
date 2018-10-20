@@ -1,3 +1,4 @@
+---
 author: Spyrivasi
 title: Doom_2_(screenshot_of_game-ending_red_window)
 image_url: /images/Doom_2_(screenshot_of_game-ending_red_window).PNG
