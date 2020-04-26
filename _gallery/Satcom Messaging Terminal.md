@@ -1,12 +1,10 @@
 --- 
 author: Spyrivasi
-title: GeoVR_Design_Cabinet
-image_url: /images/GeoVR_Design_Cabinet.jpg
-caption:
-license_url: 
-liense_text: 
-categories:
+title: Stcom Messaging Terminal
+image_url: /images/SatcomMessagingTerminal.jpg
+caption: 'Το τερματικό μηνυμάτων Satcom είναι ένα συμπαγές φορητό σύστημα επικοινωνίας ικανό να παρέχει ασφαλείς αναφορές θέσης, πλοήγηση, σύντομα μηνύματα και επικοινωνίες πίεσης χρησιμοποιώντας τον αναμεταδότη κινητής δορυφορικής υπηρεσίας (MSS) ινδικού δορυφόρου (GSAT-6). Το σύστημα που λειτουργεί με μπαταρία μπορεί να αναπτυχθεί σε λιγότερο από ένα λεπτό, καθιστώντας το εξαιρετικά κατάλληλο για αμυντικές δυνάμεις'. ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ.
+
+categories: - Online chatting
   
  
-tags: 
 ---
